@@ -1,2 +1,3 @@
 # proj-davazano
-Repo for tutorial projects
+Repo for tutorial on
+HTML5, CSS, JS and PHP 
